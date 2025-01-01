@@ -6,3 +6,5 @@
   font-size: 20px;
   margin: 20px;
 }
+
+/* using a space between .container .text is because we are using a descendant combinator (i.e text is nested within the container class) */
