@@ -10,6 +10,7 @@
 
   color: white;
   background-color: black;
+  transition: 0.7s;
 }
 
 /* how do i define the previous state before the hover effect */
@@ -17,5 +18,20 @@
 .yellow:hover {
   color: black;
   background-color: yellow;
+  transition: 0.7s;
   
 }
+
+.button:active {
+  background-color: orange;
+  transition: none;
+
+}
+.button:focus {
+  font-size: 150px;
+  transition: 1s;
+
+}
+
+
+/* a button has three states focus, active and hover */
