@@ -1,0 +1,24 @@
+
+
+.odd {
+  background-color: rgb(247, 169, 169);
+  font-size: 20pt;
+}
+
+.odd.cooler {
+  font-size: 30pt
+}
+
+#number-2 {
+  color: blue;
+  font-size: 30pt;
+}
+
+#number-4 {
+  background-color: greenyellow;
+  font-size: 24pt;
+  font-weight:bolder
+}
+
+
+
