@@ -2,6 +2,7 @@
   font-size: 100px;
   border-color: black;
   border-width: 0.1cm;
+  background-color: aqua;
 
 }
 
@@ -11,7 +12,7 @@
   background-color: black;
 }
 
-
+/* how do i define the previous state before the hover effect */
 
 .yellow:hover {
   color: black;
