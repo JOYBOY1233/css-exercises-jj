@@ -1,0 +1,18 @@
+.button {
+  font-size: 100px;
+  border-color: black;
+  border-width: 0.1cm;
+
+}
+
+.black:hover {
+
+  color: white;
+  background-color: black;
+}
+
+.yellow:hover {
+  color: black;
+  background-color: yellow;
+  
+}
