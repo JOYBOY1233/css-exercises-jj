@@ -1,5 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
 body {
-  max-width: 600px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
@@ -7,15 +11,17 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 32px;
+  margin: 12px auto;
+  width: 600px
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin: 0 auto 48px; 
+  width: 650px;
 }
 
 .three {
@@ -23,6 +29,6 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 32px;
+  margin-left: 475px;
 }
