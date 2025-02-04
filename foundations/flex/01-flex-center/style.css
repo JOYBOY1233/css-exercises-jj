@@ -1,11 +1,12 @@
-body {
+/* body {
   display: flex;
   align-items: center;
   justify-content: center;
 
-}
+} */
 
 .container {
+  margin: auto;
   background: dodgerblue;
   border: 4px solid midnightblue;
   width: 400px;
